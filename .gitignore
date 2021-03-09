@@ -1,0 +1,7 @@
+.idea/
+target/
+Calculator.log
+.classpath
+.factorypath
+.project
+.settings/
