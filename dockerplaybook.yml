@@ -27,5 +27,5 @@
       name: docker
   - name: Pull an image
     docker_image:
-      name: suvam14das/calculator-spe-devops
+      name: suvam14das/calculator_devops
       
